@@ -1,0 +1,50 @@
+body{
+    background-color: #000000;
+}
+.container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #F2F2F2;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+.customContainer{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    /* background-color: #007A74; */
+    /* border: 1px solid #000000; */
+    border-radius: 5px;
+}
+/* Style for the blog post elements */
+.border {
+    border: 1px solid #d6cece;
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #F2F2F2;
+    border-radius: 5px;
+}
+
+/* Style for the form */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Style for the Summernote rich text editor */
+.note-editor {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 5px;
+}
+
+.text{
+    color: #ffffff;
+    font-family: 'Cardo', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
